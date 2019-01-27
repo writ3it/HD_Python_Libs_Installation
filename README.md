@@ -14,7 +14,7 @@ Installer that makes easy installation process of additional python libs in Nete
 3. Run installer with code below:
 ```shell
 su root
-<hasło root>
+<type root password>
 mkdir /export/home/nz/instalation
 ./main_installer.sh /export/home/nz/instalation
 exit
